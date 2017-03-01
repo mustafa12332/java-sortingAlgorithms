@@ -1,5 +1,5 @@
 /**
- * Created by musta on 2/28/2017.
+ * Created by Mustafa Abudalu on 2/28/2017.
  */
 public class selectionSort {
 public static void sortSelect(int A[]){
